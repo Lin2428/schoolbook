@@ -11,7 +11,7 @@ login: admin
 
 password: 1234
 --------------------------------------------------------------------------------
-Ceci est la deuxieme version 
+Ceci est la premire version 
 --------------------------------------------------------------------------------
-Besoin d'aide pour rendre cette application performante 
+Besoin d'un coup de pousse pour rendre cette application performante 
 Mereci
