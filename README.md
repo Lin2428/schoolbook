@@ -13,4 +13,5 @@ password: 1234
 --------------------------------------------------------------------------------
 Ceci est la deuxieme version 
 --------------------------------------------------------------------------------
-Besoin d'aide pour rendre cette application performante
+Besoin d'aide pour rendre cette application performante 
+Mereci
