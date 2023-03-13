@@ -1,0 +1,172 @@
+
+body{
+	background: #dae0e6;
+}
+*{
+	scroll-behavior: smooth;
+}
+nav{
+	background: #e1f4ff;
+	border-top-left-radius: 5px;
+	transition: 0.7s;
+	
+
+}
+*{
+	font-size: max(4vw, 0.7em);
+}
+.degrade{
+	background-image: linear-gradient(top bottom, red rgb(21, 53, 143));
+	
+}
+.nav-item{
+	margin-left: 2rem;
+	margin-right: 2rem;
+	font-weight: bold;
+	color: white;
+}
+.accueil{
+	position: relative;
+	height: 100%;
+    width: 100%;
+    background: url('image/img1.jpg') no-repeat center center;
+    background-size: cover;
+    z-index: -2;
+	font-weight: 0;
+	transition: height 2s;
+
+}
+
+.nos_form{
+	background: url(image/img1.jpg) fixed ;
+	background-size: cover;
+}
+
+.fomation {
+	
+	list-style-type: none;
+}
+
+.formation1{
+	background: #eef7f75c;
+	height: 2.5rem;
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #fb6b6b;
+	text-align: center;
+}
+
+.formation2{
+	background: #359c9c8a;
+	color: white;
+	font-size: 1.2em;
+	padding-left: 10px ;
+}
+
+
+/*///////////////////////////////////*/
+.form #submit{
+	background: #159b5d;
+	border-radius: 4px;
+	border: none;
+	color: white;
+	font-weight: bold;
+	padding: 5px;
+	font-size: 1.05em;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 8px;
+
+}
+
+.form #submit:hover{
+	background: #27523e;
+	transition: 0.2s;
+}
+
+.form #name,
+.form #email{
+	height: 3rem;
+}
+
+.form #name,
+.form #email,
+.form #message{
+	margin-top: 10px;
+	border: none;
+	border-radius: 4px;
+	background: #eef7f7;
+	width: 100%;
+	margin-left: 8px;
+	margin-top: -10px;
+
+}
+
+.form #message{
+	max-height: 10rem;
+	margin-bottom: 15px;
+	min-height: 7rem;
+}
+
+.send h4{
+	color: #159b5d;
+	font-weight: bold;
+	margin-bottom: 1px;
+	margin-left: 8px;
+}
+
+.send p{
+	margin-bottom: 0px;
+	margin-left: 8px;
+}
+.gps{
+	text-align: center;
+
+
+	
+
+}
+.gps .fa-map,
+.gps .fa-phone,
+.gps .fa-envelope{
+	color: #159b5d;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+.gps a{
+	color: #b1b7bb;
+	text-decoration: none;
+}
+
+.gps a:hover{
+	color:  #15159b;
+}
+
+.ligne{
+	border-right: solid 2px #c1c1c1;
+}
+
+@media (max-width: 767px) { .ligne{
+	border-right: none;
+	
+	
+	}
+
+	.gps{
+		margin-left: 1rem;
+		border-bottom: solid 2px #c1c1c1;
+		} }
+/* 
+.cont{
+	
+	
+	margin-top: 7rem;
+	padding-right: 3rem;
+	border-radius: 3px;
+	background: white;
+} */
+
+*{
+	font-family:Trebuchet MS;
+}
