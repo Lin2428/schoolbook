@@ -3,7 +3,7 @@ Application web de gestion et communication
 
 shoolbook est une application web de gestion et communication scolaire
 
-Vous trouvere les fonctionnalité possible de cette premiere version dans la partie administrateur
+Vous trouverez les fonctionnalité possible de cette premiere version dans la partie administrateur
 --------------------------------------------------------------------------------
 Autotification
 
